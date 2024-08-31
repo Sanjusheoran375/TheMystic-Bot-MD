@@ -55,8 +55,8 @@ global.suittag = ['919728714060'];
 global.prems = ['919728714060'];
 
 global.packname = 'Sticker';
-global.author = 'The Mystic - Bot';
-global.wm = 'The Mystic - Bot';
+global.author = 'The Sanju - Bot';
+global.wm = 'The Sanju - Bot';
 global.titulowm = 'The Mystic - Bot';
 global.titulowm2 = `The Mystic - Bot`
 global.igfg = 'The Mystic - Bot';
